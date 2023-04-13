@@ -16,7 +16,6 @@ This is Nicholas Blackburn, **Senior Software Engineer** with 9 years of experie
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 - 🔭 Good communicator, problem solver, team collaborator.
 
-  ![My Github Stats](https://github-readme-stats.vercel.app/api?username=smartblack24&hide=stars,issues&count_private=true&show_icons=true)
 - 👯 Looking for new challenges and contributions
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartblack24&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
