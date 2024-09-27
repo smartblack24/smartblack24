@@ -1,6 +1,6 @@
 ## Hello 👋
 
-**Senior Software Engineer** with 10 years of experience.
+**Senior Software Engineer** with 13 years of experience.
 
 ### About Me
 - 🌱 Full Stack Developer, specialized in **JavaScript** technologies.
