@@ -3,7 +3,7 @@
 **Senior Software Engineer** with 13 years of experience.
 
 ### About Me
-- 🌱 Full Stack Developer, specialized in **JavaScript** technologies.
+- 🌱 Full Stack Developer, specialized in **JavaScript**, **Python**, **Golang**, **Rust** technologies.
   
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -23,12 +23,6 @@
   <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"></code>
   <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"></code>
 - 🔭 Good communicator, problem solver, team collaborator.
-
-- 👯 Looking for new challenges and contributions
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartblack24&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
